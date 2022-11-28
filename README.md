@@ -8,3 +8,4 @@
 
 ## DIP Project #2
 - video recording
+- Object Tracking via YOLO v4
